@@ -1,0 +1,16 @@
+@SmartXApi = http://localhost:7000
+
+GET {{SmartXApi}}/api/health
+Accept: application/json
+
+###
+GET {{SmartXApi}}/api/devices
+Accept: application/json
+
+###
+GET {{SmartXApi}}/api/sensors
+Accept: application/json
+
+###
+GET {{SmartXApi}}/api/telemetry/recent?take=10
+Accept: application/json

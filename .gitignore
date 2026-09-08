@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+App_Data/
+*.user
+*.suo
+*.db
+*.log
+
+# Windows shortcuts
+*.lnk
