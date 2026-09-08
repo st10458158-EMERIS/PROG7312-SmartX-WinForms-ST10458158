@@ -259,4 +259,4 @@ Microsoft. n.d.b. *Operator overloading - C# reference*. [Online]. Available at:
 =======
 # PROG7312-SmartX-WinForms-ST10458158
 SmartX IoT Monitoring and Telemetry Management System - PROG7312 Part 1
->>>>>>> 2b5d8e54de882bbab05bd46c0b8963c8a67a5364
+
