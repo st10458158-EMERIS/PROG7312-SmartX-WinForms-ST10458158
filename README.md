@@ -1,3 +1,4 @@
+
 # SmartX - Windows Forms Part 1 Implementation
 
 SmartX is an IoT monitoring and management system built for the PROG7312 Part 1 scenario. This version uses a **Windows Forms desktop frontend**, a **.NET 10 ASP.NET Core Minimal API**, a shared class library, and **SQL Server LocalDB**.
@@ -236,7 +237,7 @@ Add diagnostic file upload and protection
 Add documentation and assessment evidence checklist
 ```
 
-## Code references (IIE Harvard style)
+## Code references 
 
 In-text references are included in relevant `.cs` comments. The complete reference list is also available in `CODE_REFERENCES.md`. The 2026 suffixes continue the lettering already used in the accompanying evidence report.
 
@@ -255,3 +256,7 @@ Microsoft. 2026f. *DbContext Lifetime, Configuration, and Initialization - EF Co
 Microsoft. 2026g. *Minimal APIs quick reference*. [Online]. Available at: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-10.0 [Accessed 8 September 2026].
 
 Microsoft. n.d.b. *Operator overloading - C# reference*. [Online]. Available at: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading [Accessed 8 September 2026].
+=======
+# PROG7312-SmartX-WinForms-ST10458158
+SmartX IoT Monitoring and Telemetry Management System - PROG7312 Part 1
+>>>>>>> 2b5d8e54de882bbab05bd46c0b8963c8a67a5364
