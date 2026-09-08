@@ -1,6 +1,6 @@
-# SmartX Code Reference List (IIE Harvard style)
+# SmartX Code Reference List
 
-The in-text references in the `.cs` source comments refer to the sources below. The source code is original project code; these references acknowledge framework guidance and language concepts used in the implementation. The suffixes are aligned with the supplied Windows Forms evidence report so that repeated Microsoft sources remain unambiguous.
+.
 
 Microsoft. 2025a. *TableLayoutPanel Control Overview - Windows Forms*. [Online]. Available at: https://learn.microsoft.com/en-us/dotnet/desktop/winforms/controls/tablelayoutpanel-control-overview [Accessed 8 September 2026].
 
